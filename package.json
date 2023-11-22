@@ -1,0 +1,11 @@
+{
+  "name": "svg-aggregate-and-opt",
+  "description": "NodeJS script to optimize a group of SVGs, set their viewBox correctly, and aggregate them into a single parent SVG",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "svgo": "^2.8.0"
+  }
+}
